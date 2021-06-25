@@ -93,7 +93,7 @@ class Counter extends Component {
                 
 
     <MDBCol style={{ maxWidth: "22rem"}}>
-      <MDBCard >
+      <MDBCard className="crd1" >
         <MDBCardImage className="img-fluid" src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
           waves />
         <MDBCardBody>
