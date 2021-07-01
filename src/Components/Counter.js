@@ -8,8 +8,8 @@ import { MDBAnimation } from "mdbreact";
 import { MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavItem, MDBNavLink, MDBNavbarToggler, MDBCollapse, MDBDropdown,
     MDBDropdownToggle, MDBDropdownMenu, MDBDropdownItem, MDBIcon } from "mdbreact";
     import { BrowserRouter as Router } from 'react-router-dom';
-    import logo from '../components/images/logo.png';
-    import "../components/Counter.css";
+    import logo from '../Components/images/logo.png';
+    import "../Components/Counter.css";
 
   
 
